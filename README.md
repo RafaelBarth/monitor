@@ -1,4 +1,4 @@
-Manual do monitor de rede para windows
+Manual do monitor de rede para windows =
 Este app surgiu com a minha necessidade de monitorar a rede com um sistema simples e "gratuito" para monitor a rede da empresa.
 Consiste basicamente em monitorar por ping os equipamentos da rede.
 Você pode editar livremente o arquivo testerede.bat e alterar tua faixa de IP´s que quer monitorar.
